@@ -5,37 +5,41 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58a6ff&center=true&vCenter=true&width=800&height=40&lines=Computer+Science+Student+%40+SNHU;B.S.+in+Software+Engineering;Building+in+Java%2C+C%2B%2B%2C+and+Python;Focus+on+Algorithms+%26+Security" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58a6ff&center=true&vCenter=true&width=900&height=40&lines=B.S.+in+Computer+Science+(Software+Engineering)+%40+SNHU;Focus%3A+System+Design+%7C+Software+Security+%7C+APIs;Building+Scalable+Backend+Systems+from+Scratch;Engineering+with+Java%2C+C%2B%2B%2C+Python+%26+Databases" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-- 🌱 &nbsp;Currently learning **Data Structures & Algorithms (CS 300) and Software Security (CS 305)**  
-- 🤔 &nbsp;Looking for help with **Algorithm design patterns and secure software practices**  
-- 💬 &nbsp;Ask me about **Java, C++, Python, or software engineering**  
-- 📍 &nbsp;Based in **San Antonio, TX**
+- 🏗️ **Focus:** **System Design & API Architecture** — designing reliable, maintainable software and scalable services from the ground up.  
+- 🛡️ **Security:** Applying secure coding principles, threat modeling, and defensive architecture (**CS 305**).  
+- ⚙️ **Foundations:** Deep-diving into algorithmic optimization, time/space complexity, and data structures (**CS 300**).  
+- 💬 **Ask Me About:** Software architecture patterns, database design, or backend development.  
+- 📍 **Location:** San Antonio, TX  
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Backend & Systems**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,c,bash&theme=dark" alt="Backend & Systems" />
   </a>
 </p>
 
-**Tools & Environment**
+**Data Architecture & Persistence**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,linux&theme=dark" alt="Tools & Environment" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
   </a>
-</p>
-
-**Libraries & Additional Tools**
-<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+**DevOps, Environment & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea&theme=dark" alt="DevOps, Environment & Tools" />
+  </a>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
